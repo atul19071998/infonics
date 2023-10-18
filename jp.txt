@@ -1,0 +1,8 @@
+Top Menu
+Header - home, about us, our product, Our Services or Experties, Gallary, News & Blog, Contact Us
+
+slider 
+About us 
+Our Experties
+Get in Touch
+Footer

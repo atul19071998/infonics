@@ -1,0 +1,21 @@
+@media screen and (max-width:767px){
+    .site-footer__inner{
+        padding: 0;
+    }
+    .site-footer__contact-points li .content h4{
+        margin-bottom: 0;
+    }
+    .site-footer__contact-points li:before{
+        display: none;
+    }
+    .footer-widget__useful-links,
+    .footer-widget__services{
+        margin: 0;
+    }
+    .top_header_area{
+        text-align: center;
+    }
+    .top_header_area a + a{
+        margin-left: 0;
+    }
+}
